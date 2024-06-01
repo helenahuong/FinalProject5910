@@ -1,0 +1,1 @@
+I write this code alone without any collaboration.
